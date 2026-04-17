@@ -170,6 +170,11 @@ div img {
         flex-direction: column;
     }
 
+    div img {
+    width: 90vw;
+    border-radius: 12px;
+}
+
     .content-inner {
         width: 100vw;
     }
@@ -179,7 +184,7 @@ div img {
     }
 
   .logo {
-    width: 50vw !important;
+    width: 70vw !important;
     margin: auto !important; 
     height: auto !important;
   }    
